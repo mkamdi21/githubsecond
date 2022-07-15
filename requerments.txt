@@ -3,3 +3,6 @@ emoji
 type option
 colour
 vibrate
+dark screen
+video call
+group massages
